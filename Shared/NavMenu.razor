@@ -1,0 +1,59 @@
+﻿<Bar
+  Mode="BarMode.VerticalInline"
+  CollapseMode="BarCollapseMode.Small"
+  Breakpoint="Breakpoint.Desktop"
+  NavigationBreakpoint="Breakpoint.Tablet"
+  ThemeContrast="ThemeContrast.Dark"
+>
+  <BarBrand>
+    <BarItem>
+      <BarLink To="">
+        <BarIcon IconName="IconName.IdCard" />
+        Blazorise Aplicação
+      </BarLink>
+    </BarItem>
+  </BarBrand>
+  <BarMenu>
+    <BarStart>
+      <BarItem>
+        <BarLink To="#home">
+          <BarIcon IconName="IconName.Dashboard" />
+          Home
+        </BarLink>
+      </BarItem>
+      <BarItem>
+        <BarLink To="#docs">Documentation</BarLink>
+      </BarItem>
+      <BarItem>
+        <BarLink To="ToDo">
+          <BarIcon IconName="IconName.Home" />ToDo
+        </BarLink>
+        <BarDropdown>
+          <BarDropdownToggle>
+            <BarIcon IconName="IconName.Edit" />
+            Dropdown
+          </BarDropdownToggle>
+          <BarDropdownMenu>
+            <BarDropdownItem>Action</BarDropdownItem>
+            <BarDropdownItem>Another action</BarDropdownItem>
+          </BarDropdownMenu>
+        </BarDropdown>
+      </BarItem>
+       <BarItem>
+        <BarLink To="afazer">
+          <BarIcon IconName="IconName.LocationArrow" />Afazer
+        </BarLink>
+        <BarDropdown>
+          <BarDropdownToggle>
+            <BarIcon IconName="IconName.Edit" />
+            Dropdown
+          </BarDropdownToggle>
+          <BarDropdownMenu>
+            <BarDropdownItem>Action</BarDropdownItem>
+            <BarDropdownItem>Another action</BarDropdownItem>
+          </BarDropdownMenu>
+        </BarDropdown>
+      </BarItem>
+    </BarStart>
+  </BarMenu>
+</Bar>
