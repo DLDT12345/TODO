@@ -41,6 +41,39 @@
         }
       },
       {
+        "HashCode": -71076383,
+        "Kind": "Components.Component",
+        "Name": "projeto_blazor.Client.Pages.Index",
+        "AssemblyName": "projeto_blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_blazor.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -589757180,
+        "Kind": "Components.Component",
+        "Name": "projeto_blazor.Client.Pages.Index",
+        "AssemblyName": "projeto_blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "projeto_blazor.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_blazor.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1893280347,
         "Kind": "Components.Component",
         "Name": "projeto_blazor.Client.Pages.Afazer",
@@ -70,39 +103,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "projeto_blazor.Client.Pages.Afazer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1849857472,
-        "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Pages.Counter",
-        "AssemblyName": "projeto_blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -990116250,
-        "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Pages.Counter",
-        "AssemblyName": "projeto_blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "projeto_blazor.Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -140,35 +140,121 @@
         }
       },
       {
-        "HashCode": -71076383,
+        "HashCode": -1849857472,
         "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Pages.Index",
+        "Name": "projeto_blazor.Client.Pages.Counter",
         "AssemblyName": "projeto_blazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Pages.Index"
+          "Common.TypeName": "projeto_blazor.Client.Pages.Counter"
         }
       },
       {
-        "HashCode": -589757180,
+        "HashCode": -990116250,
         "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Pages.Index",
+        "Name": "projeto_blazor.Client.Pages.Counter",
         "AssemblyName": "projeto_blazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "projeto_blazor.Client.Pages.Index"
+            "TagName": "projeto_blazor.Client.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Pages.Index",
+          "Common.TypeName": "projeto_blazor.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -354203514,
+        "Kind": "Components.Component",
+        "Name": "projeto_blazor.Client.Shared.SurveyPrompt",
+        "AssemblyName": "projeto_blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_blazor.Client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -416182276,
+        "Kind": "Components.Component",
+        "Name": "projeto_blazor.Client.Shared.SurveyPrompt",
+        "AssemblyName": "projeto_blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "projeto_blazor.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_blazor.Client.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1461705332,
+        "Kind": "Components.Component",
+        "Name": "projeto_blazor.Client.Shared.NavMenu",
+        "AssemblyName": "projeto_blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_blazor.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -455263542,
+        "Kind": "Components.Component",
+        "Name": "projeto_blazor.Client.Shared.NavMenu",
+        "AssemblyName": "projeto_blazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "projeto_blazor.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "projeto_blazor.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -265,92 +351,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "projeto_blazor.Client.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1461705332,
-        "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Shared.NavMenu",
-        "AssemblyName": "projeto_blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -455263542,
-        "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Shared.NavMenu",
-        "AssemblyName": "projeto_blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "projeto_blazor.Client.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -354203514,
-        "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Shared.SurveyPrompt",
-        "AssemblyName": "projeto_blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -416182276,
-        "Kind": "Components.Component",
-        "Name": "projeto_blazor.Client.Shared.SurveyPrompt",
-        "AssemblyName": "projeto_blazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "projeto_blazor.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "projeto_blazor.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

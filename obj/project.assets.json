@@ -1776,11 +1776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\User\\Documents\\projeto blazor\\Client\\projeto blazor.Client.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\projeto blazor\\Client\\projeto blazor.Client.csproj",
       "projectName": "projeto_blazor.Client",
-      "projectPath": "c:\\Users\\User\\Documents\\projeto blazor\\Client\\projeto blazor.Client.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\projeto blazor\\Client\\projeto blazor.Client.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Documents\\projeto blazor\\Client\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\projeto blazor\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1794,8 +1794,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "c:\\Users\\User\\Documents\\projeto blazor\\Shared\\projeto blazor.Shared.csproj": {
-              "projectPath": "c:\\Users\\User\\Documents\\projeto blazor\\Shared\\projeto blazor.Shared.csproj"
+            "C:\\Users\\User\\Documents\\projeto blazor\\Shared\\projeto blazor.Shared.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\projeto blazor\\Shared\\projeto blazor.Shared.csproj"
             }
           }
         }

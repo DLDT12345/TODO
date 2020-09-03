@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uWqG13bynIJRhivDPsoQVjX0PlnKo+vP0TBm/cq/KBBd+IZtNXXLT4llUiOkD2gAm7lDtwCCgjuzNoa161CVJw==",
+  "dgSpecHash": "Et2RJj8lqzSPdOcYvfvGP6d0sq1IW1WZQv9qASHx3GOZe412pfbPDXjPdaeol+dKnKW+IHg6E2CwMhrMYNyz5A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\User\\Documents\\projeto blazor\\Client\\projeto blazor.Client.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\projeto blazor\\Client\\projeto blazor.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\blazorise\\0.9.1.2\\blazorise.0.9.1.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\blazorise.bootstrap\\0.9.1.2\\blazorise.bootstrap.0.9.1.2.nupkg.sha512",

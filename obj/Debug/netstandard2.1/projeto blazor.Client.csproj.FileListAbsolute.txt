@@ -386,6 +386,6 @@ C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\compresse
 C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.Bootstrap.dll.br
 C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Afazer.razor.g.cs
 C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Afazer.razor.g.cs
-C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\integrity\_8M6ROxQ6wkEVu8vOUARk-BrBy1rXkcMKeXM155whn4=.hash
-C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\integrity\18ceJsHyXmPIUUm2E7HA37BmSYlYXbGUX0GAMxkVt7Y=.hash
-C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\integrity\g-CNROkIumVippAlnckBgxlNIrINasY2tSv0cPEdLQY=.hash
+C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\integrity\Qu8o-7NXxqKRy2mmbGQmZf-EJqgX1pfcAfTShoCVuvw=.hash
+C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\integrity\XHH98COKj6yP_SXkOjbTmFiXtk5n517W90LugsACOSo=.hash
+C:\Users\User\Documents\projeto blazor\Client\obj\Debug\netstandard2.1\integrity\MzpFwlc3gQjlYQKyGu38EDKzLNEWM7CPCD8oxgWMX1g=.hash
